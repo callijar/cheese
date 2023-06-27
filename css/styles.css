@@ -50,8 +50,12 @@ img {
 }
 
 ul {
-  list-style: none;
   padding: 0;
+}
+
+li::marker {
+  color: orangered;
+  content: "►";
 }
 
 .section-two-text {
