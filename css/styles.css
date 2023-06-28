@@ -50,9 +50,6 @@ img {
   max-width: 220px;
 }
 
-ul {
-  padding: 0;
-}
 
 li::marker {
   color: orangered;
