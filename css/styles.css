@@ -7,9 +7,8 @@ body {
   background-color: var(--primary-color);
 }
 .container {
-  margin: 4em auto;
-  width: 60%;
-  padding: 10px;
+  margin: 5em auto;
+  padding: 20px;
   border-radius: 20px;
   background: linear-gradient(
     0deg,
