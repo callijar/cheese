@@ -7,7 +7,7 @@ body {
   background-color: var(--primary-color);
 }
 .container {
-  margin: 60px auto;
+  margin: 4em auto;
   width: 60%;
   padding: 10px;
   border-radius: 20px;
